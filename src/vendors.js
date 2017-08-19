@@ -1,5 +1,5 @@
 import Vue from 'vue';
-import iView from 'iview';
+import iView from 'iview-smart';
 import VueRouter from 'vue-router';
 import axios from 'axios';
 

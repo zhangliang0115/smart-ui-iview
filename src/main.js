@@ -1,11 +1,11 @@
 import Vue from 'vue';
-import iView from 'iview';
+import iView from 'iview-smart';
 import VueRouter from 'vue-router';
 import Routers from './router';
 
 import Util from './libs/util';
 import App from './app.vue';
-import 'iview/dist/styles/iview.css';
+import 'iview-smart/dist/styles/iview.css';
 
 
 Vue.use(VueRouter);
