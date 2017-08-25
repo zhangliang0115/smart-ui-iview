@@ -1,6 +1,6 @@
 {
   "name": "smart-ui-iview",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "极简UI框架之基于iview",
   "main": "index.js",
   "scripts": {
@@ -16,10 +16,7 @@
   "author": "zhangliang",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.15.3",
-    "echarts": "^3.4.0",
-    "iview-smart": "^2.0.6",
-    "js-cookie": "^2.1.3",
+    "iview-smart": "^2.0.7",
     "vue": "^2.2.6",
     "vue-router": "^2.3.1"
   },
